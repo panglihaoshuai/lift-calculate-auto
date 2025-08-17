@@ -1,0 +1,11 @@
+# 电梯货物装载计算器依赖
+# 本程序使用Python标准库，无需额外安装
+
+# GUI相关
+# tkinter - Python标准库（已包含）
+
+# 测试相关
+# unittest - Python标准库（已包含）
+
+# 兼容性
+python_version>=3.6
